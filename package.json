@@ -1,7 +1,7 @@
 {
 	"name": "lafosse-academy-theme",
 	"displayName": "LaFosse Academy Theme",
-	"icon": "images/",
+	"icon": "images/logo-rings@4x.png",
 	"description": "A set of themes created for the staff and students of La Fosse Academy bootcamp",
 	"version": "0.0.1",
 	"author": {
