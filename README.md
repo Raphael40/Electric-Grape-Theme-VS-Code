@@ -1,10 +1,22 @@
-<p>
+<p align="center">
     <img alt="lfa-logo" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/logo-rings@4x.png?raw=true" width="100" />
 </p>
 
 <h1 align="center">
     LaFosse Academy Theme for VS Code
 </h1>
+
+<p align="center">
+    A vibrant theme made with the LFA branding colours
+</p>
+
+<p align="center">
+  <img alt="preview" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/theme-preview.png?raw=true">
+</p>
+
+<p align="center">
+  <img alt="preview" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/theme-preview-2.png?raw=true">
+</p>
 
 ## Working with Markdown
 
