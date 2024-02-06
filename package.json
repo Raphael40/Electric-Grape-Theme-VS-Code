@@ -1,0 +1,25 @@
+{
+	"name": "lafosse-academy-theme",
+	"displayName": "LaFosse-Academy-Theme",
+	"description": "Work theme",
+	"version": "0.0.1",
+	"author": {
+		"name": "Julian Festing",
+		"email": "julfesting@gmail.com"
+	},
+	"engines": {
+		"vscode": "^1.86.0"
+	},
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "lfa-theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/lfa-theme-color-theme.json"
+			}
+		]
+	}
+}
