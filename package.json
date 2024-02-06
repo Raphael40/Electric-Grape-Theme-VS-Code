@@ -1,7 +1,8 @@
 {
 	"name": "lafosse-academy-theme",
-	"displayName": "LaFosse-Academy-Theme",
-	"description": "Work theme",
+	"displayName": "LaFosse Academy Theme",
+	"icon": "images/",
+	"description": "A set of themes created for the staff and students of La Fosse Academy bootcamp",
 	"version": "0.0.1",
 	"author": {
 		"name": "Julian Festing",
@@ -18,7 +19,7 @@
 			{
 				"label": "lfa-theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/lfa-theme-color-theme.json"
+				"path": "./themes/lfa-color-theme.json"
 			}
 		]
 	}
