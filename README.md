@@ -63,19 +63,17 @@ Code > Preferences > Color Theme > lfa-color-theme
 
 ## About La Fosse Academy
 
--   [La Fosse Academy Website](https://www.lafosseacademy.com/)
+La Fosse provides technology talent solutions that build capacity to help solve business challenges. We do this by leveraging our academy, recruitment, solutions (resource augmentation), and executive search offerings.
 
-La Fosse provides technology talent solutions that build capacity to help solve business challenges. We do this by leveraging our academy, recruitment, solutions (resource augmentation), and executive search offerings. Our expert teams can supply talent at all levels from the classroom to the boardroom on a permanent, contract, and interim basis.
-We have a range of options to support our customers at various stages of their journey, providing a mix of capabilities tailored to meet their needs for the short-term and helping to build a sustainable skills pipeline for the longer-term.
+-   La Fosse Recruitment – Delivering next-level technology talent
+-   La Fosse Executive – Finding transformative leadership
+-   **La Fosse Academy – Training next-gen tech workforces**
+-   La Fosse Solutions – Providing teams that deliver tech change
 
-• La Fosse Recruitment – Delivering next-level technology talent
-• La Fosse Executive – Finding transformative leadership
-• **La Fosse Academy – Training next-gen tech workforces**
-• La Fosse Solutions – Providing teams that deliver tech change
+This theme was developed my an academy member.
+At La Fosse Academy we find, train, and place the tech superstars of tomorrow bringing high-quality, diverse talent to your workplace with a retention plan for the long term.
 
-Company culture is a huge focus for us, promoting an inclusive, supportive environment that encourages our employees to reach their career goals. Our values of care, ambition, and humility are shared by the whole team and reflected in everything we do. It's a collective effort, which is why we're so proud to be named the 13th Best Large Company to Work For in the UK by Best Companies in 2022, with a Special Recognition Award for 10 years of Commitment to being a Best Company to Work For.
-
-For more information, please visit www.lafosse.com and keep up with us on social media:
+For more information, please visit [www.lafosseacademy.com](https://www.lafosseacademy.com/) and keep up with us on social media:
 Twitter @\_LaFosse, Instagram @LaFosseLife
 
 ## Support
