@@ -20,11 +20,11 @@
 
 ## Installation via VS Code
 
-Open Extensions sidebar panel in VS Code. View → Extensions
-Search for LaFosse Academy Theme
-Click Install to install it
-Click Reload to reload the editor
-Code > Preferences > Color Theme > lfa-color-theme
+1. Open Extensions sidebar panel in VS Code. View → Extensions
+2. Search for LaFosse Academy Theme
+3. Click Install to install it
+4. Click Reload to reload the editor
+5. Code > Preferences > Color Theme > lfa-color-theme
 
 ## Colour Reference
 
@@ -70,7 +70,7 @@ La Fosse provides technology talent solutions that build capacity to help solve 
 -   **La Fosse Academy – Training next-gen tech workforces**
 -   La Fosse Solutions – Providing teams that deliver tech change
 
-This theme was developed my an academy member.
+This theme was developed by a trainer in the Academy.
 At La Fosse Academy we find, train, and place the tech superstars of tomorrow bringing high-quality, diverse talent to your workplace with a retention plan for the long term.
 
 For more information, please visit [www.lafosseacademy.com](https://www.lafosseacademy.com/) and keep up with us on social media:
