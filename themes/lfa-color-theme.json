@@ -189,10 +189,10 @@
 		"peekViewTitle.background": "#5e0ec5",
 
 		// Git changes
-		"gitDecoration.modifiedResourceForeground": "#3c2157",
+		"gitDecoration.modifiedResourceForeground": "#32047a",
 		"gitDecoration.deletedResourceForeground": "#c3e54d",
-		"gitDecoration.untrackedResourceForeground": "#ffbb36",
-		"gitDecoration.ignoredResourceForeground": "#ee829a",
+		"gitDecoration.untrackedResourceForeground": "#5e0ec5",
+		"gitDecoration.ignoredResourceForeground": "#6881db",
 		"gitDecoration.conflictingResourceForeground": "#c3e54d"
 	},
 	"tokenColors": [
