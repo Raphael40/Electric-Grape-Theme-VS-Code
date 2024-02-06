@@ -159,7 +159,7 @@
 		"panel.border": "#ff7999",
 		"panelTitle.activeForeground": "#ffbb36",
 		"panelTitle.activeBorder": "#ffc828",
-		"panelTitle.inactiveForeground": "#ee829a",
+		// "panelTitle.inactiveForeground": "#ffc828",
 
 		// terminal
 		"terminalCursor.foreground": "#c3e54d",
