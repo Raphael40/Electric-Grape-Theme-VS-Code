@@ -280,7 +280,7 @@
 			"name": "Block Level Variables",
 			"scope": ["meta.block variable.other"],
 			"settings": {
-				"foreground": "#ff7999"
+				"foreground": "#6881db"
 			}
 		},
 		{
@@ -399,7 +399,7 @@
 			"name": "Attributes",
 			"scope": ["entity.other.attribute-name"],
 			"settings": {
-				"foreground": "#ee829a"
+				"foreground": "#6881db"
 			}
 		},
 		{
@@ -695,14 +695,14 @@
 			"name": "Markdown - Raw Block Fenced",
 			"scope": ["markup.raw.block.fenced.markdown"],
 			"settings": {
-				"foreground": "#3c2157"
+				"foreground": "#6881db"
 			}
 		},
 		{
 			"name": "Markdown - Fenced Bode Block",
 			"scope": ["punctuation.definition.fenced.markdown"],
 			"settings": {
-				"foreground": "#3c2157"
+				"foreground": "#295e62"
 			}
 		},
 		{
