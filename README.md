@@ -1,5 +1,9 @@
+<p>
+    <img alt="lfa-logo" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/logo-rings@4x.png?raw=true" width="100" />
+</p>
+
 <h1 align="center">
-    # LaFosse Academy Theme for VS Code
+    LaFosse Academy Theme for VS Code
 </h1>
 
 ## Working with Markdown
