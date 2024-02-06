@@ -61,9 +61,29 @@ Code > Preferences > Color Theme > lfa-color-theme
 | ![#8145d1](https://via.placeholder.com/10/8145d1?text=+) `#8145d1` |
 | ![#9260f3](https://via.placeholder.com/10/9260f3?text=+) `#9260f3` |
 
+## About La Fosse Academy
+
+-   [La Fosse Academy Website](https://www.lafosseacademy.com/)
+
+La Fosse provides technology talent solutions that build capacity to help solve business challenges. We do this by leveraging our academy, recruitment, solutions (resource augmentation), and executive search offerings. Our expert teams can supply talent at all levels from the classroom to the boardroom on a permanent, contract, and interim basis.
+We have a range of options to support our customers at various stages of their journey, providing a mix of capabilities tailored to meet their needs for the short-term and helping to build a sustainable skills pipeline for the longer-term.
+
+• La Fosse Recruitment – Delivering next-level technology talent
+• La Fosse Executive – Finding transformative leadership
+• **La Fosse Academy – Training next-gen tech workforces**
+• La Fosse Solutions – Providing teams that deliver tech change
+
+Company culture is a huge focus for us, promoting an inclusive, supportive environment that encourages our employees to reach their career goals. Our values of care, ambition, and humility are shared by the whole team and reflected in everything we do. It's a collective effort, which is why we're so proud to be named the 13th Best Large Company to Work For in the UK by Best Companies in 2022, with a Special Recognition Award for 10 years of Commitment to being a Best Company to Work For.
+
+For more information, please visit www.lafosse.com and keep up with us on social media:
+Twitter @\_LaFosse, Instagram @LaFosseLife
+
 ## Support
 
 -   [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
 -   [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+-   [Visual Studio Code's Colour Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+-   [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+-   [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
 **Enjoy!**
