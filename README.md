@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Electric-Grape-logo" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/Electric-Grape.png?raw=true" width="100" />
+    <img alt="Electric-Grape-logo" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/Electric-Grape.png?raw=true" width="150" />
 </p>
 
 <h1 align="center">
