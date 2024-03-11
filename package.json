@@ -3,6 +3,7 @@
 	"displayName": "Electric Grape Theme",
 	"icon": "images/Electric-Grape.png",
 	"description": "A fun theme for vscode",
+	"publisher": "JulianRFesting",
 	"version": "0.0.1",
 	"author": {
 		"name": "Julian Festing",
