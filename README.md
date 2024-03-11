@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-    My Theme for VS Code
+    Electric Grape Theme for VS Code
 </h1>
 
 <p align="center">
-    A vibrant theme that may blind you
+    A vibrant theme that will capture everyones attention
 </p>
 
 <p align="center">
@@ -21,10 +21,10 @@
 ## Installation via VS Code
 
 1. Open Extensions sidebar panel in VS Code. View → Extensions
-2. Search for LFA Theme
+2. Search for Electric Grape Theme
 3. Click Install to install it
 4. Click Reload to reload the editor
-5. Code > Preferences > Color Theme > lfa-color-theme
+5. Code > Preferences > Color Theme > Electric-Grape-color-theme
 
 ## Colour Reference
 
