@@ -1,8 +1,8 @@
 {
 	"name": "lafosse-academy-theme",
-	"displayName": "LaFosse Academy Theme",
+	"displayName": "Electric Grape Theme",
 	"icon": "images/logo-rings@4x.png",
-	"description": "A set of themes created for the staff and students of La Fosse Academy bootcamp",
+	"description": "A fun theme for vscode",
 	"version": "0.0.1",
 	"author": {
 		"name": "Julian Festing",
@@ -17,9 +17,9 @@
 	"contributes": {
 		"themes": [
 			{
-				"label": "lfa-theme",
+				"label": "Electric-Grape-theme",
 				"uiTheme": "vs-dark",
-				"path": "./themes/lfa-color-theme.json"
+				"path": "./themes/Electric-Grape-color-theme.json"
 			}
 		]
 	}

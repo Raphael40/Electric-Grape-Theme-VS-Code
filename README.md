@@ -3,11 +3,11 @@
 </p>
 
 <h1 align="center">
-    LaFosse Academy Theme for VS Code
+    My Theme for VS Code
 </h1>
 
 <p align="center">
-    A vibrant theme made with the LFA branding colours
+    A vibrant theme that may blind you
 </p>
 
 <p align="center">
@@ -21,7 +21,7 @@
 ## Installation via VS Code
 
 1. Open Extensions sidebar panel in VS Code. View → Extensions
-2. Search for LaFosse Academy Theme
+2. Search for LFA Theme
 3. Click Install to install it
 4. Click Reload to reload the editor
 5. Code > Preferences > Color Theme > lfa-color-theme
@@ -61,27 +61,12 @@
 | ![#8145d1](https://via.placeholder.com/10/8145d1?text=+) `#8145d1` |
 | ![#9260f3](https://via.placeholder.com/10/9260f3?text=+) `#9260f3` |
 
-## About La Fosse Academy
-
-La Fosse provides technology talent solutions that build capacity to help solve business challenges. We do this by leveraging our academy, recruitment, solutions (resource augmentation), and executive search offerings.
-
--   La Fosse Recruitment – Delivering next-level technology talent
--   La Fosse Executive – Finding transformative leadership
--   **La Fosse Academy – Training next-gen tech workforces**
--   La Fosse Solutions – Providing teams that deliver tech change
-
-This theme was developed by a trainer in the Academy.
-At La Fosse Academy we find, train, and place the tech superstars of tomorrow bringing high-quality, diverse talent to your workplace with a retention plan for the long term.
-
-For more information, please visit [www.lafosseacademy.com](https://www.lafosseacademy.com/) and keep up with us on social media:
-Twitter @\_LaFosse, Instagram @LaFosseLife
-
 ## Support
 
--   [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
--   [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
--   [Visual Studio Code's Colour Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
--   [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
--   [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
+- [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
+- [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+- [Visual Studio Code's Colour Reference](https://code.visualstudio.com/docs/getstarted/theme-color-reference)
+- [VS Code Theme Documentation](https://code.visualstudio.com/docs/extensions/themes-snippets-colorizers)
+- [VS Code Publishing Extensions](https://code.visualstudio.com/docs/extensions/publish-extension)
 
 **Enjoy!**
