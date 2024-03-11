@@ -82,12 +82,12 @@
 
 		// merge
 		"merge.border": "#3c215700",
-		"merge.commonContentBackground": "#ffbb36",
-		"merge.commonHeaderBackground": "#ffbb36",
-		"merge.currentContentBackground": "#ff7999",
-		"merge.currentHeaderBackground": "#ff7999",
-		"merge.incomingContentBackground": "#c3e54d",
-		"merge.incomingHeaderBackground": "#c3e54d",
+		"merge.commonContentBackground": "#ffbb3633",
+		"merge.commonHeaderBackground": "#ffbb3633",
+		"merge.currentContentBackground": "#ff799933",
+		"merge.currentHeaderBackground": "#ff799933",
+		"merge.incomingContentBackground": "#c3e54d33",
+		"merge.incomingHeaderBackground": "#c3e54d33",
 
 		//Button controls - open Run and Debug
 		"button.background": "#ff7999",
