@@ -1,15 +1,20 @@
 {
 	"name": "lafosse-academy-theme",
 	"displayName": "Electric Grape Theme",
-	"icon": "images/logo-rings@4x.png",
+	"icon": "images/Electric-Grape.png",
 	"description": "A fun theme for vscode",
 	"version": "0.0.1",
 	"author": {
 		"name": "Julian Festing",
-		"email": "julfesting@gmail.com"
+		"email": "julfesting@gmail.com",
+		"url": "https://www.linkedin.com/in/julian-r-f/"
 	},
 	"engines": {
 		"vscode": "^1.86.0"
+	},
+	"repository": {
+		"url": "https://github.com/Raphael40/Electric-Grape-Theme-VS-Code?tab=readme-ov-file",
+		"type": "git"
 	},
 	"categories": [
 		"Themes"
