@@ -1,5 +1,5 @@
 <p align="center">
-    <img alt="Electric-Grape-logo" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/Electric-Grape.png?raw=true" width="150" />
+    <img alt="Electric-Grape-logo" src="https://github.com/Raphael40/Electric-Grape-Theme-VS-Code/blob/main/images/Electric-Grape.png?raw=true" width="150" />
 </p>
 
 <h1 align="center">
@@ -11,11 +11,11 @@
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/theme-preview.png?raw=true">
+  <img alt="preview" src="https://github.com/Raphael40/Electric-Grape-Theme-VS-Code/blob/main/images/theme-preview.png?raw=true">
 </p>
 
 <p align="center">
-  <img alt="preview" src="https://github.com/Raphael40/vscode-theme-lfa/blob/main/images/theme-preview-2.png?raw=true">
+  <img alt="preview" src="https://github.com/Raphael40/Electric-Grape-Theme-VS-Code/blob/main/images/theme-preview-2.png?raw=true">
 </p>
 
 ## Installation via VS Code
